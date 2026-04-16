@@ -1,6 +1,8 @@
-<img width="540" height="258" alt="task2 1" src="https://github.com/user-attachments/assets/e2cfc402-73aa-404c-be2d-d0227136ae34" />
-<img width="836" height="366" alt="Screenshot 2026-04-08 101140" src="https://github.com/user-attachments/assets/b7f323bf-8734-4e2d-865e-03b52e9dfbde" />
-<img width="704" height="458" alt="week5" src="https://github.com/user-attachments/assets/f1f67234-4c97-4003-8628-c3a1f1a908dc" />
-<img width="990" height="644" alt="week5-task2" src="https://github.com/user-attachments/assets/b8da41a4-61ed-4ac5-bce1-b98c660f9576" />
-<img width="769" height="585" alt="week5-task1" src="https://github.com/user-attachments/assets/f5c6e7bd-0822-4f5a-8348-0d722730cf9e" />
+<img width="769" height="585" alt="Vlan-Basics-12305354-network" src="https://github.com/user-attachments/assets/08ae2ab9-6cab-4e3a-a0e6-cbaa0d0f7a85" />
+<img width="704" height="458" alt="Vlan-Basics-12305354-ports" src="https://github.com/user-attachments/assets/35691ad1-842f-4be9-9c8f-59a8e412f72b" />
+<img width="836" height="366" alt="Vlan-Router-12305354-ports" src="https://github.com/user-attachments/assets/0c734ad8-0293-43ac-8a39-a6ca6018198f" />
+<img width="540" height="258" alt="Vlan-Router-12305354-ports2" src="https://github.com/user-attachments/assets/56692435-5837-4135-88d3-e3770d4c01e1" />
+<img width="836" height="366" alt="Vlan-Router-12305354-ports" src="https://github.com/user-attachments/assets/d77c544f-db95-4d44-b710-293aa3c34771" />
+
+
 
