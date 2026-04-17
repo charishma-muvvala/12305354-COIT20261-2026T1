@@ -39,7 +39,7 @@ ip address show
 <img width="902" height="276" alt="GNS-Intro-12305354-ipaddress" src="https://github.com/user-attachments/assets/5e973158-d6c5-4447-856b-f1a4c4b5bb96" />
 
 ### GNS3 file 
-[gns3 project]
+[gns3 project](https://github.com/charishma-muvvala/12305354-COIT20261-2026T1/edit/main/week1/GNS3-Intro-12305354.gns3project)
 
 ## Learnings
 
