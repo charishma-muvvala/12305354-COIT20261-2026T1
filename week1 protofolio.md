@@ -8,3 +8,12 @@
 ## IP Addresss
 
 <img width="902" height="276" alt="GNS-Intro-12305354-ipaddress" src="https://github.com/user-attachments/assets/5e973158-d6c5-4447-856b-f1a4c4b5bb96" />
+
+## Task Overview
+
+This task involved creating a basic project in GNS3 to understand:
+
+Project creation
+Adding and configuring a Linux host
+Assigning a static IP address
+Using the console to verify configuration
