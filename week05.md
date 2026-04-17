@@ -10,19 +10,26 @@ This project demonstrates the configuration of VLANs and inter-VLAN communicatio
 - VLAN segmentation implemented
 - Inter-VLAN routing configured
 ## Configuration Summary
+<img width="704" height="458" alt="Vlan-Basics-12305354-ports" src="https://github.com/user-attachments/assets/35691ad1-842f-4be9-9c8f-59a8e412f72b" />
+<img width="836" height="366" alt="Vlan-Router-12305354-ports" src="https://github.com/user-attachments/assets/0c734ad8-0293-43ac-8a39-a6ca6018198f" />
 ### VLAN Configuration
 - VLAN 34 - Host1 & Host2
 - VLAN 55 - Host3 & Host4
 ### Switch Configuration
 - Ports assigned to VLANs
+  
 - Trunk port configured between switch and router
 
 ### Router Configuration
 - Subinterfaces created
 - IP addresses assigned for each VLAN
 - Routing enabled between VLANs
-  <img width="704" height="458" alt="Vlan-Basics-12305354-ports" src="https://github.com/user-attachments/assets/35691ad1-842f-4be9-9c8f-59a8e412f72b" />
-<img width="836" height="366" alt="Vlan-Router-12305354-ports" src="https://github.com/user-attachments/assets/0c734ad8-0293-43ac-8a39-a6ca6018198f" />
+
+## Testing
+- Successful ping within same VLAN
+- Successful ping between VLANs (via router)
+- Verified using command line tools
+  
 <img width="540" height="258" alt="Vlan-Router-12305354-ports2" src="https://github.com/user-attachments/assets/56692435-5837-4135-88d3-e3770d4c01e1" />
 <img width="836" height="366" alt="Vlan-Router-12305354-ports" src="https://github.com/user-attachments/assets/d77c544f-db95-4d44-b710-293aa3c34771" />
 
