@@ -2,6 +2,8 @@
 
 ## Networking Diagram
 
+<img width="1111" height="510" alt="week4-networkdiagram" src="https://github.com/user-attachments/assets/80dcddb0-9d54-411a-b67e-ca0f215a5a12" />
+
 
 ## Topology Description
 - Host1 (192.168.0.1) connected to Switch1
@@ -10,6 +12,10 @@
 - Router1 connected to Host3
   
 ## 3 IP Addressing and Interfaces
+<img width="415" height="304" alt="week04-host1" src="https://github.com/user-attachments/assets/5699171d-0651-494b-8025-07c1a0957675" />
+
+## Host2
+<img width="1001" height="435" alt="week-4host2" src="https://github.com/user-attachments/assets/6847fb84-f64c-4ec3-acc7-f321cf444a59" />
 
 
 IP Address: 192.168.0.2/24
@@ -31,6 +37,11 @@ eth3 - connected to Host3 network
 ## 5. Ping Test (Successful)
 # ping -c 3 192.168.0.2
 
+<img width="569" height="249" alt="week4-tcp" src="https://github.com/user-attachments/assets/bf6ce3fe-ce86-4fef-bb73-5e6f5b5c6029" />
+
+
+<img width="462" height="266" alt="week4-pingconnection" src="https://github.com/user-attachments/assets/40bdfbb5-d21f-493b-b6ad-ca331dc33c8d" />
+
 
 PING 192.168.0.2 (192.168.0.2) 56(84) bytes of data.
 64 bytes from 192.168.0.2: icmp_seq=1 ttl=64 time=1.52 ms
@@ -41,7 +52,9 @@ Result: Successful communication between hosts.
 
 # Task -2
 ## 6. Netcat Communication Test
+<img width="1653" height="774" alt="week4-ping" src="https://github.com/user-attachments/assets/9a67644c-67ff-477c-97ca-732921d97915" />
 
+<img width="564" height="205" alt="week04-wireshark" src="https://github.com/user-attachments/assets/172b12de-67eb-40e6-9cc6-5bab8172a214" />
 
 Hi
 I am a client
