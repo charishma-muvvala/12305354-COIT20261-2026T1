@@ -13,7 +13,38 @@
 
 This task involved creating a basic project in GNS3 to understand:
 
-Project creation
+### Project creation
 Adding and configuring a Linux host
+
 Assigning a static IP address
+
 Using the console to verify configuration
+
+### Steps Performed
+Created a new project named:
+
+GNS3-Intro-<studentid>
+
+Added a Linux host node
+
+Configured static IP address by editing:
+
+/etc/network/interfaces
+
+Used the following configuration:
+
+auto eth0
+
+iface eth0 inet static
+
+   address 10.10.1.1
+   
+   netmask 255.255.255.0
+   
+   up sysctl net.ipv4.ip_forward=0
+
+Started the node
+
+Opened console and ran command:
+
+ip address show
